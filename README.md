@@ -71,7 +71,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 </div>
 
 
--------
+-----
 
 📊 **Weekly development breakdown**
 
